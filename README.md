@@ -64,4 +64,4 @@ def max_marks(list1):
 ![Screenshot 2023-04-29 at 11-15-23 Exp 3a-CR- Maximum of a list of numbers Attempt review](https://user-images.githubusercontent.com/118343461/235286150-cebbe8d3-f460-470f-9365-671658018c34.png)
 
 ## Result:
-Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
+Thus the program to find the maximum of given numbers from the list is written and verified using python programming .
