@@ -44,6 +44,11 @@ def max_marks(list1):
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
+![Screenshot 2023-04-29 at 11-14-30 Exp 3a-CR- Maximum of a list of numbers Attempt review](https://user-images.githubusercontent.com/118343461/235286070-f690e70a-41aa-494a-9dc5-1d529dde119d.png)
+## Output:
+![Screenshot 2023-04-29 at 11-15-02 Exp 3a-CR- Maximum of a list of numbers Attempt review](https://user-images.githubusercontent.com/118343461/235286141-b2a1aef8-3e8b-48b3-8c36-1038de580e53.png)
+## Output:
+![Screenshot 2023-04-29 at 11-15-23 Exp 3a-CR- Maximum of a list of numbers Attempt review](https://user-images.githubusercontent.com/118343461/235286150-cebbe8d3-f460-470f-9365-671658018c34.png)
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
